@@ -1,0 +1,26 @@
+{
+  "name": "nodetodo",
+  "version": "1.0.0",
+  "description": "getting things done with nodejs",
+  "main": "client.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cpbuckingham/hyperdev.git"
+  },
+  "keywords": [
+    "veil-field"
+  ],
+  "author": "hyperdev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cpbuckingham/hyperdev/issues"
+  },
+  "homepage": "https://github.com/cpbuckingham/hyperdev#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "nodemon": "^1.10.2"
+  }
+}
