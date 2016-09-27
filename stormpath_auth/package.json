@@ -1,0 +1,22 @@
+{
+  "name": "stormpath_auth",
+  "version": "1.0.0",
+  "description": "express and stormpath",
+  "main": "server.js",
+  "scripts": {
+  "start": "node server.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "express-stormpath": "^3.1.5",
+    "jade": "^1.11.0",
+    "pug": "^2.0.0-beta6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
