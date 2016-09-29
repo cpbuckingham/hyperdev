@@ -1,0 +1,16 @@
+{
+  "name": "mailgun",
+  "version": "1.0.0",
+  "description": "sending email with mailgun",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "nodemailer": "^2.6.4"
+  }
+}
